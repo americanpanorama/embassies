@@ -1,0 +1,34 @@
+// sizes
+// (be sure to copy any changes to App.jsx#computeComponentDimensions)
+$container-padding: 20px;
+$header-height: 90px;
+$bottom-row-height-short: 230px;
+$bottom-row-height-tall: 310px;
+
+// breakpoints
+$breakpoint-width-narrow: 750px;
+$breakpoint-width-wide: 1280px;
+
+// colors
+$background-color: #111111;
+$land-color: #111133;
+$ocean-color: lighten(#666, 0%);  //lighten(#03104F, 15%);
+$modal-overlay-color: rgba(51, 51, 51, 0.25);
+$text-color: mix(#F6FEDB, #eee);
+$text-link-color: #207a9e;
+$selected-color: #F0F757;
+$basemap-color: #666;
+$term-color: #555;
+$term-outline-color: #666699;
+
+
+$selected-term-color: #ADC698;
+$westerneurope-color: lighten(orange, 20%);
+$easterneurope-color: lighten(#722f37, 40%);
+$eastasia-color: #2ca02c;
+$middleeast-color: #a387be;
+$latinamerica-color: #7EC0EE; 
+$africa-color: #ef33a2;
+$southasia-color: #b98a6f;
+$oceania-color: lighten(#db4f54, 20%);
+$canada-color: #bcbd22;
